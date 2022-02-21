@@ -10,6 +10,7 @@ I'm Rose, a second year computer science student at the University of Western On
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/rose-gao-27240a200/#gh-dark-mode-only)
 &nbsp;&nbsp;
 
-[![Rose's GitHub stats](https://github-readme-stats.vercel.app/api?username=MemoriaNoctis)](https://github.com/MemoriaNoctis/github-readme-stats)
+
+[![Rose's GitHub stats](https://github-readme-stats.vercel.app/api?username=MemoriaNoctis&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MemoriaNoctis&layout=compact)](https://github.com/MemoriaNoctis/github-readme-stats)
 
